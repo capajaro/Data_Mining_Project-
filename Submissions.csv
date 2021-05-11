@@ -1,30 +1,27 @@
 Family,Model,Score
-BERT - Python,Trial_Python_99.csv,0.83266
-BERT - Python,Trial_Python_85.csv,0.82531
-BERT - Python,Trial_Python_98.csv,0.8247
-BERT - Python,Trial_Python_75.csv,0.82102
-BERT - Python,Trial_Python_1.csv,0.79129
-Lasso,042121_Lassso.csv,0.76003
-SVM,042121_SVM.csv,0.75298
-SVM,042321_SVM_linear_e1071.csv,0.75237
-SVM,042321_SVM_radial_e1071.csv,0.74777
-SVM,042121_SVM_Short.csv,0.70916
-SVM,042321_SVM_linear2_e1071.csv,0.70855
-Bayesglm,Trial6_Opt2.csv,0.74992
-Bayesglm,Trial9.csv,0.74624
-Bayesglm,Trial6.csv,0.74624
-Bayesglm,Trial6_Opt3.csv,0.74471
-Bayesglm,042021.csv,0.73551
-Cluster + Rpart,Trial5.csv,0.72908
-Cluster + Rpart,042021_Cluster.csv,0.71529
-Cluster + Rpart,Trial3.csv,0.70242
-Cluster + Rpart,042121_Cluster.csv,0.73092
-Cluster + Rpart,042121_Cluster_Lasso.csv,0.74042
 Rpart,ft_0995.csv,0.68985
 Rpart,Cols_50.csv,0.67912
 Rpart,Cols_100.csv,0.66349
 Rpart,Cols_100_2.csv,0.66288
 Rpart,ft_0985.csv,0.66196
-Rpart,Trial1.csv,0.27122
-,Combinacion_Modelos.csv,0.75758
-,Combinacion_Modelos - 2.csv,0.74685
+Cluster + Rpart,Trial5.csv,0.72908
+Cluster + Rpart,042021_Cluster.csv,0.71529
+Cluster + Rpart,Trial3.csv,0.70242
+Cluster + Rpart,042121_Cluster.csv,0.73092
+Cluster + Rpart,042121_Cluster_Lasso.csv,0.74042
+Bayesglm,Trial6_Opt2.csv,0.74992
+Bayesglm,Trial9.csv,0.74624
+Bayesglm,Trial6.csv,0.74624
+Bayesglm,Trial6_Opt3.csv,0.74471
+Bayesglm,042021.csv,0.73551
+SVM,042121_SVM.csv,0.75298
+SVM,042321_SVM_linear_e1071.csv,0.75237
+SVM,042321_SVM_radial_e1071.csv,0.74777
+SVM,042121_SVM_Short.csv,0.70916
+SVM,042321_SVM_linear2_e1071.csv,0.70855
+Lasso,042121_Lassso.csv,0.76003
+BERT - Python,Trial_Python_99.csv,0.83266
+BERT - Python,Trial_Python_85.csv,0.82531
+BERT - Python,Trial_Python_98.csv,0.8247
+BERT - Python,Trial_Python_75.csv,0.82102
+BERT - Python,Trial_Python_1.csv,0.79129

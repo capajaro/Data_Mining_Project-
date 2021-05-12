@@ -20,7 +20,9 @@ SVM,042321_SVM_radial_e1071.csv,0.74777
 SVM,042121_SVM_Short.csv,0.70916
 SVM,042321_SVM_linear2_e1071.csv,0.70855
 Lasso,042121_Lassso.csv,0.76003
+Lasso,042121_Lassso.csv,0.75329
+Lasso,042121_Lassso.csv,0.78087
 BERT - Python,Trial_Python_85.csv,0.82408
-BERT - Python,Trial_Python_98.csv,0.824
-BERT - Python,Trial_Python_75.csv,0.82102
-BERT - Python,Trial_Python_1.csv,0.79129
+BERT - Python,Trial_Python_98.csv,0.82623
+BERT - Python,Trial_Python_75.csv,0.81949
+BERT - Python,Trial_Python_1.csv,0.82776

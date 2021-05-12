@@ -15,6 +15,7 @@ Bayesglm,Trial6.csv,0.74624
 Bayesglm,Trial6_Opt3.csv,0.74471
 Bayesglm,042021.csv,0.73551
 SVM,042121_SVM.csv,0.75298
+SVM,042321_SVM_linear_Caret.csv,0.75329
 SVM,042321_SVM_linear_e1071.csv,0.75237
 SVM,042321_SVM_radial_e1071.csv,0.74777
 SVM,042121_SVM_Short.csv,0.70916

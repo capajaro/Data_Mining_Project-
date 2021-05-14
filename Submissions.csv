@@ -4,6 +4,7 @@ Rpart,Cols_50.csv,0.67912
 Rpart,Cols_100.csv,0.66349
 Rpart,Cols_100_2.csv,0.66288
 Rpart,ft_0985.csv,0.66196
+Rpart,Rpart_Tunning.csv,0.69659
 Cluster + Rpart,Trial5.csv,0.72908
 Cluster + Rpart,042021_Cluster.csv,0.71529
 Cluster + Rpart,Trial3.csv,0.70242
